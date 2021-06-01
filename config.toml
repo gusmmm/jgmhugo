@@ -1,4 +1,4 @@
-baseURL = "/gusmmm.github.io/jgmhugo/"
+baseURL = "https://gusmmm.github.io/jgmhugo/"
 languageCode = "en-us"
 title = "Jose Gustavo Martins"
 theme = "cactus"
